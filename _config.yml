@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Nicolai Haddal"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Policy advocate. Programmin, music, and photography enthusiast. Washington, DC"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Policy advocate. Programming, music, and photography enthusiast. Washington, DC"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
