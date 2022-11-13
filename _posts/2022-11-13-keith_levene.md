@@ -20,7 +20,7 @@ No, for years I\'ve known Levene as the brilliant, abrasive guitarist
 for Public Image Limited (PiL), the band he co-founded with John Lydon
 (fka Johnny Rotten of the Sex Pistols) in 1978. Way more people know the
 Sex Pistols, and a few might only know PiL as Johnny Rotten\'s other
-band. But I\'m not certainly not alone in my belief that of the two,
+band. But I\'m certainly not alone in my belief that of the two,
 Public Image Ltd was the one artistically worth a damn. As a few YouTube
 commentators have pointed out: Public Image Ltd, at their early peak
 before Levene left the band, sounded like the future. And I think Levene
@@ -60,15 +60,15 @@ an artist than before you learned to play guitar in the first place.
 Keith Levene, though, could do something different with the guitar. No
 small feat. To use this instrument to make sounds that are fresh and
 mind-bending requires a degree of individualism, perseverance, and
-discernment that I think is nearly instinct in the guitar-playing masses
+discernment that I think is nearly extinct in the guitar-playing masses
 of today and was always in short supply to begin with. The sounds Levene
 made with the guitar were haunting, frightening, visceral. His tone was
 ice-pick sharp, metallic. It\'s not technically difficult to play the
 chords he played, but it\'s extremely difficult to play outside the
 lines like he did. Levene chose the wrong notes on purpose, something
 that guitar players like me spend a whole lifetime running away from.
-Many people, maybe even most people, would frown. But to a few of us it
-makes all the difference.
+And upon hearing him play many people, maybe even most people, would frown. 
+But it gives a few of us an enormous smile.
 
 Ok, so Levene played weird. Who cares? What good is it to try to play
 the guitar differently, anyway? Indeed I think 90% of people would be
@@ -77,7 +77,7 @@ a fundamental choice: Do you want to be an entertainer? Or do you want
 to be an artist? You can be both, of course. But which comes first?
 
 I think the early Public Image Ltd albums rose to the level of art. And
-truly unique art will reach into your heart and resonate in ways you
+truly unique art will reach into your heart and resonate with you in ways you
 didn\'t know were even possible. This was the case for me when I first
 discovered Public Image Ltd and Keith Levene\'s playing. It was the
 winter of 2014. I was already out of college, and I had flown to Poland
@@ -100,7 +100,7 @@ if you\'re surrounded by people you love. In my life, I\'ve found that
 only art can close that gap. So I owe Levene a debt of gratitude.
 Levene\'s tenure in the spotlight was relatively brief. Like so many
 great artists he couldn\'t seem to have gotten out of his own way. I
-hope he\'s at peace.
+hope he\'s at peace now.
 
 Here are a few of my favorite Public Image Ltd tracks and clips:
 
