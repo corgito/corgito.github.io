@@ -86,9 +86,7 @@ own words. But you could hear how I felt if you listened to
 \'Annalisa\', the driving, desperate fourth track on PiL\'s debut album
 \'First Issue\'.
 
-<iframe width=\"560\" height=\"315\"src=\"<https://www.youtube.com/embed/CIgRQP4Fa-o>\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay;
-clipboard-write; encrypted-media; gyroscope; picture-in-picture\"
-allowfullscreen\>\</iframe\>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIgRQP4Fa-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Listen to the track once, and then listen to it again paying special
 attention to the guitar. It\'s never in the \'right\' place. The note
@@ -147,5 +145,6 @@ artist.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nIXBpwkvTUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/00fIPt-WARc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
