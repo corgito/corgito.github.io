@@ -17,7 +17,7 @@ Some examples of my work online:
 
 My personal interests include:
 
-- *Music:* I've made music under a variety of monikers over the years. I love death metal and electronic music.
-- *Photography:* Over the years I've shot landscape, portrait, and product photography. [See more at my Instagram account.](https://www.instagram.com/haddalphin)
-- *Philosophy"* I have a BA in Philosophy from the University of California, Davis.
-- *Consuming less and creating more:* The democratization of production enabled by digital solutions (e.g. digital photography, recording music on computers instead of studios) has been offset, in my view, by the increasing strain on the time of people living in the attention economy. We carry super powerful communication devices devoted to sapping our attention at all times. Lately I've been trying to take in less information and put out more of my own - to varying degrees of success!
+- **Music:** I've made music under a variety of monikers over the years. I love death metal and electronic music.
+- **Photography:** Over the years I've shot landscape, portrait, and product photography. [See more at my Instagram account.](https://www.instagram.com/haddalphin)
+- **Philosophy:** I have a BA in Philosophy from the University of California, Davis.
+- **Consuming less and creating more:** The democratization of production enabled by digital solutions (e.g. digital photography, recording music on computers instead of studios) has been offset, in my view, by the increasing strain on the time of people living in the attention economy. We carry super powerful communication devices devoted to sapping our attention at all times. Lately I've been trying to take in less information and put out more of my own - to varying degrees of success!
