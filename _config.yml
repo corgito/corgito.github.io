@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Nicolai Haddal"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Policy advocate. Programming, music, and photography enthusiast. Washington, DC"
+  bio    : "Software developer and AI researcher. Photographer and musician. Based in Riverside, California."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
