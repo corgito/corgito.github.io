@@ -1,0 +1,37 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: software developer and AI builder by trade
+      - title: photographer and musician
+      - title: emacs and linux enthusiast
+      - title: based in riverside, california
+      - title: more about me here
+        url: about
+      
+  - title: social and other places
+    entries:
+      - title: github
+        url: https://github.com/corgito
+      - title: instagram
+        url: https://instagram.com/haddalphin
+      - title: bluesky
+        url: https://bsky.app/profile/nicolai.bsky.social
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  # - title: posts by category
+  #   post_list:
+  #     category: music
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: example2-archive.html
+
+  - title: rss
+    url: feed.xml

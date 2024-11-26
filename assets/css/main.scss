@@ -1,0 +1,21 @@
+---
+---
+
+@import "no-style-please";
+
+// /* Default body padding */
+// body {
+//   padding-left: 150px;
+//   padding-right: 150px;
+// }
+
+// /* Mobile devices: override padding */
+// @media (max-width: 768px) {
+//   body {
+//     padding-left: 0;
+//     padding-right: 0;
+//   }
+// }
+
+// TODO: exclude iframe elements from the color inversion in dark mode
+iframe { filter: invert(1); }
